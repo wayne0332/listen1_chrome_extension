@@ -57,7 +57,7 @@
  "_CANCEL_CONNECT": "Cancel Connect",
  "_SHORTCUTS": "Shortcuts",
  "_VIEW_SHORTCUTS_LIST": "View Shortcuts List",
- "_GLOBAL_SHORTCUTS_NOTICE": "Enable Global Shortcuts: Ctrl(Cmd) + Alt + Left Arrow (Previous Track)，Ctrl(Cmd) + Alt + Right Arrow (Next Track)",
+ "_GLOBAL_SHORTCUTS_NOTICE": "Enable Global Shortcuts: Ctrl + Cmd + Left Arrow (Previous Track)，Ctrl + Cmd + Right Arrow (Next Track), Optional + Cmd + Space (Play/Pause)",
  "_CONNECT_TO_LASTFM": "Connect to Last.fm",
  "_ABOUT": "About",
  "_HOMEPAGE": "Homepage",

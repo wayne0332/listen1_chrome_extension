@@ -1197,6 +1197,12 @@ const main = () => {
             angularPlayer.nextTrack();
           } else if (message === 'left') {
             angularPlayer.prevTrack();
+          } else if (message === 'play') {
+            if (angularPlayer.isPlayingStatus()) {
+              angularPlayer.pause();
+            }else {
+              angularPlayer.play();
+            }
           }
         });
       }
